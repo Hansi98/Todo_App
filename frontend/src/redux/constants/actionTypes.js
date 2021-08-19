@@ -1,0 +1,10 @@
+export const ActionTypes = {
+    PERSIST_TODOS : 'PERSIST_TODOS',
+    ADD_TEXT : 'ADD_TEXT',
+    ADD_TODO : 'ADD_TODO',
+    DELETE_TODO : 'DELETE_TODO',
+    EDIT_TODO : 'EDIT_TODO',
+    EDIT_ADD_TODO : 'EDIT_ADD_TODO',
+    DELETE_ALL : 'DELETE_ALL'
+};
+
