@@ -4,7 +4,7 @@
 }
 
 body {
-  background: #c33764; /* fallback for old browsers */
+  background: #e02963; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
     #1d2671,
@@ -23,8 +23,8 @@ input {
   background: border-box;
   color: #ffffffa6;
   border-top: none;
-  width: 200px;
-  padding: 5px;
+  width: 700px;
+  padding: 10px;
 }
 
 button {
